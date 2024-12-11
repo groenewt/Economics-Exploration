@@ -5,6 +5,7 @@ The `World Bank` folder is dedicated to exploring and utilizing data from the Wo
 ## Folder Structure
 
 ### 1. **General**
+<<<<<<< HEAD
 
 - **File:** `introduction.ipynb`
   - Provides a technical overview of loading, manipulating, and visualizing indicator data.
@@ -24,6 +25,23 @@ The `World Bank` folder is dedicated to exploring and utilizing data from the Wo
 
 ## Objectives
 
+=======
+   - **File:** `introduction.ipynb`
+     - Provides a technical overview of loading, manipulating, and visualizing indicator data.
+     - Serves as a starting point for working with World Bank data.
+
+### 2. **Projects**
+   - Focused on economic research topics and themes.
+   - Showcases technical and economic expertise through real-world applications.
+   
+     #### Existing Projects:
+     - **Government Quality Analysis:**
+       - Evaluates governance metrics using a composite 'score' across various indicators.
+     - **Gender Inequality:**
+       - Assesses gender disparities and explores modern challenges in achieving equality.
+
+## Objectives
+>>>>>>> c162fbd55746f12f285ffe58355ca659e19b3402
 - Efficient ETL processes for World Bank indicators.
 - Clear and actionable insights into economic research themes.
 - Comprehensive technical demonstration of Python capabilities in Economics.
