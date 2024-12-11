@@ -1,0 +1,86 @@
+ID,Name,Region,Income Level,Lending Type,Capital City,Longitude,Latitude
+ABW,Aruba,Latin America & Caribbean ,High income,Not classified,Oranjestad,-70.0167,12.5167
+AND,Andorra,Europe & Central Asia,High income,Not classified,Andorra la Vella,1.5218,42.5075
+ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified,Abu Dhabi,54.3705,24.4764
+ASM,American Samoa,East Asia & Pacific,High income,Not classified,Pago Pago,-170.691,-14.2846
+ATG,Antigua and Barbuda,Latin America & Caribbean ,High income,IBRD,Saint John's,-61.8456,17.1175
+AUS,Australia,East Asia & Pacific,High income,Not classified,Canberra,149.129,-35.282
+AUT,Austria,Europe & Central Asia,High income,Not classified,Vienna,16.3798,48.2201
+BEL,Belgium,Europe & Central Asia,High income,Not classified,Brussels,4.36761,50.8371
+BGR,Bulgaria,Europe & Central Asia,High income,IBRD,Sofia,23.3238,42.7105
+BHR,Bahrain,Middle East & North Africa,High income,Not classified,Manama,50.5354,26.1921
+BHS,"Bahamas, The",Latin America & Caribbean ,High income,Not classified,Nassau,-77.339,25.0661
+BMU,Bermuda,North America,High income,Not classified,Hamilton,-64.706,32.3293
+BRB,Barbados,Latin America & Caribbean ,High income,IBRD,Bridgetown,-59.6105,13.0935
+BRN,Brunei Darussalam,East Asia & Pacific,High income,Not classified,Bandar Seri Begawan,114.946,4.94199
+CAN,Canada,North America,High income,Not classified,Ottawa,-75.6919,45.4215
+CHE,Switzerland,Europe & Central Asia,High income,Not classified,Bern,7.44821,46.948
+CHI,Channel Islands,Europe & Central Asia,High income,Not classified,,,
+CHL,Chile,Latin America & Caribbean ,High income,IBRD,Santiago,-70.6475,-33.475
+CUW,Curacao,Latin America & Caribbean ,High income,Not classified,Willemstad,,
+CYM,Cayman Islands,Latin America & Caribbean ,High income,Not classified,George Town,-81.3857,19.3022
+CYP,Cyprus,Europe & Central Asia,High income,Not classified,Nicosia,33.3736,35.1676
+CZE,Czechia,Europe & Central Asia,High income,Not classified,Prague,14.4205,50.0878
+DEU,Germany,Europe & Central Asia,High income,Not classified,Berlin,13.4115,52.5235
+DNK,Denmark,Europe & Central Asia,High income,Not classified,Copenhagen,12.5681,55.6763
+ESP,Spain,Europe & Central Asia,High income,Not classified,Madrid,-3.70327,40.4167
+EST,Estonia,Europe & Central Asia,High income,Not classified,Tallinn,24.7586,59.4392
+FIN,Finland,Europe & Central Asia,High income,Not classified,Helsinki,24.9525,60.1608
+FRA,France,Europe & Central Asia,High income,Not classified,Paris,2.35097,48.8566
+FRO,Faroe Islands,Europe & Central Asia,High income,Not classified,Torshavn,-6.91181,61.8926
+GBR,United Kingdom,Europe & Central Asia,High income,Not classified,London,-0.126236,51.5002
+GIB,Gibraltar,Europe & Central Asia,High income,Not classified,,,
+GRC,Greece,Europe & Central Asia,High income,Not classified,Athens,23.7166,37.9792
+GRL,Greenland,Europe & Central Asia,High income,Not classified,Nuuk,-51.7214,64.1836
+GUM,Guam,East Asia & Pacific,High income,Not classified,Agana,144.794,13.4443
+GUY,Guyana,Latin America & Caribbean ,High income,IDA,Georgetown,-58.1548,6.80461
+HKG,"Hong Kong SAR, China",East Asia & Pacific,High income,Not classified,,114.109,22.3964
+HRV,Croatia,Europe & Central Asia,High income,IBRD,Zagreb,15.9614,45.8069
+HUN,Hungary,Europe & Central Asia,High income,Not classified,Budapest,19.0408,47.4984
+IMN,Isle of Man,Europe & Central Asia,High income,Not classified,Douglas,-4.47928,54.1509
+IRL,Ireland,Europe & Central Asia,High income,Not classified,Dublin,-6.26749,53.3441
+ISL,Iceland,Europe & Central Asia,High income,Not classified,Reykjavik,-21.8952,64.1353
+ISR,Israel,Middle East & North Africa,High income,Not classified,,35.2035,31.7717
+ITA,Italy,Europe & Central Asia,High income,Not classified,Rome,12.4823,41.8955
+JPN,Japan,East Asia & Pacific,High income,Not classified,Tokyo,139.77,35.67
+KNA,St. Kitts and Nevis,Latin America & Caribbean ,High income,IBRD,Basseterre,-62.7309,17.3
+KOR,"Korea, Rep.",East Asia & Pacific,High income,Not classified,Seoul,126.957,37.5323
+KWT,Kuwait,Middle East & North Africa,High income,Not classified,Kuwait City,47.9824,29.3721
+LIE,Liechtenstein,Europe & Central Asia,High income,Not classified,Vaduz,9.52148,47.1411
+LTU,Lithuania,Europe & Central Asia,High income,Not classified,Vilnius,25.2799,54.6896
+LUX,Luxembourg,Europe & Central Asia,High income,Not classified,Luxembourg,6.1296,49.61
+LVA,Latvia,Europe & Central Asia,High income,Not classified,Riga,24.1048,56.9465
+MAC,"Macao SAR, China",East Asia & Pacific,High income,Not classified,,113.55,22.1667
+MAF,St. Martin (French part),Latin America & Caribbean ,High income,Not classified,Marigot,,
+MCO,Monaco,Europe & Central Asia,High income,Not classified,Monaco,7.41891,43.7325
+MLT,Malta,Middle East & North Africa,High income,Not classified,Valletta,14.5189,35.9042
+MNP,Northern Mariana Islands,East Asia & Pacific,High income,Not classified,Saipan,145.765,15.1935
+NCL,New Caledonia,East Asia & Pacific,High income,Not classified,Noum'ea,166.464,-22.2677
+NLD,Netherlands,Europe & Central Asia,High income,Not classified,Amsterdam,4.89095,52.3738
+NOR,Norway,Europe & Central Asia,High income,Not classified,Oslo,10.7387,59.9138
+NRU,Nauru,East Asia & Pacific,High income,IBRD,Yaren District,166.920867,-0.5477
+NZL,New Zealand,East Asia & Pacific,High income,Not classified,Wellington,174.776,-41.2865
+OMN,Oman,Middle East & North Africa,High income,Not classified,Muscat,58.5874,23.6105
+PAN,Panama,Latin America & Caribbean ,High income,IBRD,Panama City,-79.5188,8.99427
+PLW,Palau,East Asia & Pacific,High income,IBRD,Koror,134.479,7.34194
+POL,Poland,Europe & Central Asia,High income,IBRD,Warsaw,21.02,52.26
+PRI,Puerto Rico,Latin America & Caribbean ,High income,Not classified,San Juan,-66,18.23
+PRT,Portugal,Europe & Central Asia,High income,Not classified,Lisbon,-9.13552,38.7072
+PYF,French Polynesia,East Asia & Pacific,High income,Not classified,Papeete,-149.57,-17.535
+QAT,Qatar,Middle East & North Africa,High income,Not classified,Doha,51.5082,25.2948
+ROU,Romania,Europe & Central Asia,High income,IBRD,Bucharest,26.0979,44.4479
+RUS,Russian Federation,Europe & Central Asia,High income,IBRD,Moscow,37.6176,55.7558
+SAU,Saudi Arabia,Middle East & North Africa,High income,Not classified,Riyadh,46.6977,24.6748
+SGP,Singapore,East Asia & Pacific,High income,Not classified,Singapore,103.85,1.28941
+SMR,San Marino,Europe & Central Asia,High income,Not classified,San Marino,12.4486,43.9322
+SVK,Slovak Republic,Europe & Central Asia,High income,Not classified,Bratislava,17.1073,48.1484
+SVN,Slovenia,Europe & Central Asia,High income,Not classified,Ljubljana,14.5044,46.0546
+SWE,Sweden,Europe & Central Asia,High income,Not classified,Stockholm,18.0645,59.3327
+SXM,Sint Maarten (Dutch part),Latin America & Caribbean ,High income,Not classified,Philipsburg,,
+SYC,Seychelles,Sub-Saharan Africa ,High income,IBRD,Victoria,55.4466,-4.6309
+TCA,Turks and Caicos Islands,Latin America & Caribbean ,High income,Not classified,Grand Turk,-71.141389,21.4602778
+TTO,Trinidad and Tobago,Latin America & Caribbean ,High income,IBRD,Port-of-Spain,-61.4789,10.6596
+URY,Uruguay,Latin America & Caribbean ,High income,IBRD,Montevideo,-56.0675,-34.8941
+USA,United States,North America,High income,Not classified,Washington D.C.,-77.032,38.8895
+VGB,British Virgin Islands,Latin America & Caribbean ,High income,Not classified,Road Town,-64.623056,18.431389
+VIR,Virgin Islands (U.S.),Latin America & Caribbean ,High income,Not classified,Charlotte Amalie,-64.8963,18.3358

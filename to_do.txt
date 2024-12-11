@@ -1,0 +1,22 @@
+From 10-12:
+    -> Populate 'Dump' Folders In each parent Folder. This will contain old code so that each section has references available if already made
+    -> Clean 'World Bank Folder'
+        -> Finish 'General.ipynb' and abstractions
+        -> Make significant strides with the 'Gender Inequalities' and 'Government Scoring' projects
+    -> **PRIORITIZE** organization + detailed notes for time being 
+    -> Cleaning Overviews should be straight forward: Plug + Play template-ish
+    -> FRED
+        -> Populate with misc projects from past; try to import previously made data sets 
+        -> Build out Overview 
+    -> Game Theory
+        -> General Prisoner Dilema's Notebook: Import and review. Deeper development sometime
+        -> Misc Projects
+        -> Build out Overview 
+    -> UN Data
+        -> probably something lol
+        -> Build out Overview
+    -> Data Sets 
+        -> Populate as go
+        -> Make .json with Overview
+    -> Highlights
+        -> EOD 
